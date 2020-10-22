@@ -20,7 +20,7 @@ const CreateProfile = props => {
 
   return (
     <div>
-      
+      Create Profile
     </div>
   )
 }
